@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProductServiceApplication",
+            "request": "launch",
+            "mainClass": "ma.fgs.product.ProductServiceApplication",
+            "projectName": "product-service"
+        }
+    ]
+}
